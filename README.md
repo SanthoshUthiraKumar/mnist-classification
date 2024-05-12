@@ -35,7 +35,6 @@ Evaluate the model with the testing data
 ### STEP 10:
 Fit the model and predict the single input
 
-
 ## PROGRAM
 
 ```
@@ -160,7 +159,6 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 #### Output:
 ![Output5](https://github.com/SanthoshUthiraKumar/mnist-classification/assets/119477975/41e9dbfc-7072-4a70-a30e-b55e4dee111f)
 ![Output6](https://github.com/SanthoshUthiraKumar/mnist-classification/assets/119477975/2127d829-76c4-45c1-99c0-6b85069158c7)
-
 
 ## RESULT
 Thus, a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully.
